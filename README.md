@@ -65,7 +65,7 @@ Our Jokebot is now pretty solid. It’s in a good place and it works. Let’s cl
 1. Consider edge cases. Are there any things that we might have missed in our instructions, that could happen, that might break the Jokebot? Address these edge cases (if any).
 2. Refactor your code. We don’t need detailed comments, but we’d like to see that you have structured your code appropriately, and have named variables/functions appropriately.
 > Note: You don’t need to follow any of the code structure recommendations that we provided earlier. (For example, you may decide that you don’t want two separate functions to read from a CSV and from Reddit, and decide to combine the two. Or, you may decide to add another function that allows choosing between these two sources.) We only need the core functionality (telling jokes from either a CSV or Reddit) to work when we run the program.
-3. If you have not been using git, create a repository and commit your jokebot program to it. Push the repository to a public Github repo that we can access, and submit it at ()
+3. If you have not been using git, create a repository and commit your jokebot program to it. Push the repository to a public Github repo that we can access, and submit it at https://goo.gl/forms/3z9hTVxwoUuoHCh42
 
 ## Finished!
 We hope you've enjoyed this little exercise. We will be reaching out later in the break towards the beginning of the semester with next steps.
